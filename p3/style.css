@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: url("pic.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+}
+div,form {
+	text-align: center;
+}
+div h1 {
+	padding-top: 20px;
+}
+input {
+	text-align: center;
+}
+.container {
+	background: #305d72;
+	margin: auto;
+	width: 40%;
+	height: 250px;
+	border-radius: 50px;
+		
+}
+input[type=submit]{
+	padding: 0px 10px;
+	color: #12633E;
+	background: #55EA00;
+	border-radius: 5px;
+	border: 1px solid;
+}
